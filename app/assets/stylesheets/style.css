@@ -3,7 +3,7 @@ button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-bloc
 
 
 .container{max-width: 1400px}
-body{ background:#050513 url("../images/bg.jpg") center top no-repeat;
+body{ background:#050513 url("bg.jpg") center top no-repeat;
 font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -12,14 +12,14 @@ font-family: 'Nunito Sans', sans-serif;
 .hadding p{ font-size: 35px; color: #212a30; line-height: normal;}
  
 
-.casino_cont{ border-radius:25px; background: #000 url("../images/lbg1.jpg") center top no-repeat; margin:15px 0px;  padding: 30px;}
+.casino_cont{ border-radius:25px; background: #000 url("lbg1.jpg") center top no-repeat; margin:15px 0px;  padding: 30px;}
 .casino_cont img{}
 .casino_cont p{ font-size:18px; color:#fff; margin:15px 0px;}
 .casino_cont span{ font-size:16px; color:#fff; margin:15px 0px;}
 .casino_cont ul{ margin: 0px; padding: 0px;}
 .casino_cont ul li{ float: none; list-style: none; font-size:18px; color:#fff; font-weight:600; color:#fff;}
-.casino_cont02{ background: #000 url("../images/lbg2.jpg") center top no-repeat; }
-.casino_cont03{ background: #000 url("../images/lbg3.jpg") center top no-repeat; }
+.casino_cont02{ background: #000 url("lbg2.jpg") center top no-repeat; }
+.casino_cont03{ background: #000 url("lbg3.jpg") center top no-repeat; }
 
 .btn_cst{  border-radius: 8px; font-size: 18px; font-weight: 800; padding:7px 15px; border:transparent;
   background-image: -moz-linear-gradient( 90deg, rgb(170,0,20) 0%, rgb(255,168,0) 100%);
